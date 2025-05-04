@@ -51,6 +51,7 @@
 - **Start Menu**: a custom NothingOS start menu to replace boring default one.
 - **Power Menu**: a custom NothingOS power menu to ease out your way to shut down computer.
 - **Tools Menu**: a custom NothingOS tools menu with useful quick tiles/settings replacing your windows+A key.
+- **Wallpapers:** Exclusive NothingOS inspired wallpapers. 
 
 - **DYNAMIC THEME** A custom dynamic theme which auto adapts to your wallpaper color, currently pro exclusive. 
  
@@ -72,6 +73,8 @@
 | Start menu | NA | 1 styles
 | Power menu | NA | 1 style 
 | Tools menu | NA | 1 style
+| Dynamic Theme | No | Yes
+| Wallpapers | 10 | 30
 
 
 # Screenshots
