@@ -10,7 +10,7 @@
 <h3 align="center">
   <b><a href="https://telegra.ph/Pro-Membership-10-09">Get PRO Version directly</a></b> ・
 <a href="https://buymeacoffee.com/sahilseth2S/e/331439">Get PRO Version on BMC</a> ・
-<a href="https://maybesahil.gumroad.com/l/MD3-Windows-v5">Get PRO Version on Gumroad</a>
+<a href="https://maybesahil.gumroad.com/l/NThing-UI-pro">Get PRO Version on Gumroad</a>
 <br> </br>
 <p align="center"> <a href="https://github.com/Runixe786/NThing-UI/releases/tag/v1.0-publicbeta">Download Basic Version</a>
  
