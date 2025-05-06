@@ -110,9 +110,9 @@
    > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
 
 # Credits
-• [Gadgets by SilverAzide](https://github.com/SilverAzide/Gadgets) for Weather widgets
-• Rainmeter forum community to help fix some issues
-• A bit of google and AI for ideas and suggestions
+• [Gadgets by SilverAzide](https://github.com/SilverAzide/Gadgets) for Weather widgets.
+• Rainmeter forum community to help fix some issues.
+• A bit of google and AI for ideas and suggestions.
 • All testers for early testing of beta version.
 
 # Feedback 
