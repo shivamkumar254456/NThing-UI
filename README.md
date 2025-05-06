@@ -109,6 +109,12 @@
 4. Continue with on screen options and you are done! In case your skin didn't load on install, open Rainmeter skin manager and manually load the skin and layouts.
    > ![SkinInstaller_IEwbSMPiNM Medium](https://github.com/user-attachments/assets/a48c39c7-5ac3-48f7-b669-484387b25e07)
 
+# Credits
+• {Gadgets by SilverAzide}(https://github.com/SilverAzide/Gadgets) for Weather widgets
+• Rainmeter forum community to help fix some issues
+• A bit of google and AI for ideas and suggestions
+• All testers for early testing of beta version.
+
 # Feedback 
 Since this project is still in beta, its expected to have bugs. If you find any, Please report me or if you want to add suggestions, open a new [issue](https://github.com/Runixe786/MD3-Windows/issues/new) or text me in Telegram [@MaybeSahil](https://t.me/MaybeSahil)
 
