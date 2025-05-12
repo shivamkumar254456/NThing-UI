@@ -56,7 +56,7 @@
 - **DYNAMIC THEME** A custom dynamic theme which auto adapts to your wallpaper color, currently pro exclusive. 
  
 
-# Comparison of features of PRO and basic version (v0.5)
+# Comparison of features of PRO and basic version (v1.0)
 
 | Skin      | Basic      | Pro |
 | ------------- | ------------- | ------------- |
